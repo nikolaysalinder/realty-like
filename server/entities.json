@@ -1,0 +1,704 @@
+{
+  "entities": [
+    {
+      "id": 0,
+      "price": 56286,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 1,
+      "price": 74150,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 2,
+      "price": 52932,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 3,
+      "price": 53139,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 4,
+      "price": 54678,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 5,
+      "price": 79315,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 6,
+      "price": 42364,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 7,
+      "price": 37602,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 8,
+      "price": 60945,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 9,
+      "price": 50156,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 10,
+      "price": 30717,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 11,
+      "price": 6295,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 12,
+      "price": 34109,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 13,
+      "price": 13552,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 14,
+      "price": 92277,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 15,
+      "price": 31666,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 16,
+      "price": 587,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 17,
+      "price": 36428,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 18,
+      "price": 51556,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 19,
+      "price": 587,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 20,
+      "price": 20612,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 21,
+      "price": 70960,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 22,
+      "price": 5337,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 23,
+      "price": 15741,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 24,
+      "price": 48454,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 25,
+      "price": 66435,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 26,
+      "price": 96293,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 27,
+      "price": 43691,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 28,
+      "price": 66332,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 29,
+      "price": 93738,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 30,
+      "price": 94873,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 31,
+      "price": 63879,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 32,
+      "price": 1237,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 33,
+      "price": 16445,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 34,
+      "price": 84459,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 35,
+      "price": 46574,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 36,
+      "price": 79625,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 37,
+      "price": 44582,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 38,
+      "price": 15854,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 39,
+      "price": 71922,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 40,
+      "price": 91765,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 41,
+      "price": 69550,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 42,
+      "price": 51754,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 43,
+      "price": 71030,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 44,
+      "price": 3739,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 45,
+      "price": 6193,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 46,
+      "price": 10882,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 47,
+      "price": 7762,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 48,
+      "price": 36269,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 49,
+      "price": 43520,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 50,
+      "price": 31532,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 51,
+      "price": 60709,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 52,
+      "price": 99634,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 53,
+      "price": 50369,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 54,
+      "price": 56629,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 55,
+      "price": 63302,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 56,
+      "price": 55220,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 57,
+      "price": 28137,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 58,
+      "price": 85576,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 59,
+      "price": 68006,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 60,
+      "price": 97711,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 61,
+      "price": 86424,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 62,
+      "price": 16018,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 63,
+      "price": 76179,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 64,
+      "price": 42367,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 65,
+      "price": 14791,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 66,
+      "price": 58385,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 67,
+      "price": 72807,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 68,
+      "price": 60339,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 69,
+      "price": 40327,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 70,
+      "price": 90896,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 71,
+      "price": 16739,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 72,
+      "price": 62366,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 73,
+      "price": 59575,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 74,
+      "price": 47454,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 75,
+      "price": 34992,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 76,
+      "price": 5125,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 77,
+      "price": 58852,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 78,
+      "price": 53187,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 79,
+      "price": 74717,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 80,
+      "price": 83208,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 81,
+      "price": 44034,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 82,
+      "price": 76733,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 83,
+      "price": 18053,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 84,
+      "price": 50525,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 85,
+      "price": 19226,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 86,
+      "price": 47765,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 87,
+      "price": 56188,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 88,
+      "price": 23941,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 89,
+      "price": 64378,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 90,
+      "price": 86821,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 91,
+      "price": 21299,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 92,
+      "price": 37167,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 93,
+      "price": 53564,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 94,
+      "price": 5001,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 95,
+      "price": 45882,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 96,
+      "price": 85125,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 97,
+      "price": 46149,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": true
+    },
+    {
+      "id": 98,
+      "price": 31205,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    },
+    {
+      "id": 99,
+      "price": 55723,
+      "rooms": 5,
+      "squaring": 300,
+      "isLiked": false
+    }
+  ]
+}
